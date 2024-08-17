@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Ignore other potential unwanted files
+node_modules/
+*.env
+
